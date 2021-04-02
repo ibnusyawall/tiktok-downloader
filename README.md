@@ -1,7 +1,6 @@
 <div align="center">
  
 # TikTok Video Downloader
-![TikTokDl](https://img.shields.io/badge/TikTok-Downloader-black)
 ![Author](https://img.shields.io/badge/Author-ibnusyawall-blue.svg?style=for-the-badge&logo=github)
 <details>
  <summary>🥟 Help me!</summary>
