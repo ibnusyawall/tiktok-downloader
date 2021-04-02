@@ -11,10 +11,8 @@
  [Paypal.me](https://paypal.me/syawal24)
  
 </details>
+<p>Download TikTok videos for free. No login or password are required.</p>
 </div>
-
-- Download TikTok videos for free. No login or password are required.
-
 
 # Introduce
 
