@@ -1,7 +1,3 @@
-//import './bootstrap';
-//import Vue from 'vue';
-//import App from './components/Example.vue';
-
 /**
  * First we will load all of this project's JavaScript dependencies which
  * includes Vue and other libraries. It is a great starting point when
@@ -29,8 +25,6 @@ VueClipboard.config.autoSetContainer = true // add this line
 Vue.use(VueClipboard)
 Vue.use(VueAWN, {})
 
-Vue.component('example', require('./components/Example.vue').default);
-Vue.component('kalkulator', require('./components/Kalkulator/Kalkulator.vue').default);
 Vue.component('tik-tok', require('./components/Tiktok/Tiktok.vue').default);
 
 /**
@@ -41,5 +35,4 @@ Vue.component('tik-tok', require('./components/Tiktok/Tiktok.vue').default);
 
 const app = new Vue({
     el: '#app',
-    //render: h => h(App)
 });
