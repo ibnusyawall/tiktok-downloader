@@ -40,7 +40,7 @@ This project was developed using Laravel 8 and using VueJS as a page view.
 ## Setup
 ```bash
 > php artisan key:generate
-> npm run watch:poll
+> npm run watch-poll
 ```
 
 
