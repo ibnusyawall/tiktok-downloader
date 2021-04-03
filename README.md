@@ -48,3 +48,6 @@ This project was developed using Laravel 8 and using VueJS as a page view.
 ```
 > php artisan serve
 ```
+
+## Contact Me
+* <a href="https://wa.me/6282299265151"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
