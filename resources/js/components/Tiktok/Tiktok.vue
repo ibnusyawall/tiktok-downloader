@@ -39,7 +39,7 @@
         },
         methods: {
             submitForm() {
-                    axios.post('https://tiktokd.herokuapp.com//tiktok', { url: this.form.url })
+                    axios.post('https://tiktokd.herokuapp.com/tiktok', { url: this.form.url })
                         .then(res => {
                             this.link = res.data.data.link
                             this.embed = res.data.data.link
